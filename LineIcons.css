@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'LineIcons';
-  src:  url('../fonts/LineIcons.eot');
-  src:  url('../fonts/LineIcons.eot#iefix') format('embedded-opentype'),
-    url('../fonts/LineIcons.ttf') format('truetype'),
-    url('../fonts/LineIcons.woff') format('woff'),
-    url('../fonts/LineIcons.svg#LineIcons') format('svg');
+  src:  url('https://trxizaz.github.io/new/LineIcons.eot');
+  src:  url('https://trxizaz.github.io/new/LineIcons.eot#iefix') format('embedded-opentype'),
+    url('https://trxizaz.github.io/new/LineIcons.ttf') format('truetype'),
+    url('https://trxizaz.github.io/new/fonts/LineIcons.woff') format('woff'),
+    url('https://trxizaz.github.io/new/fonts/LineIcons.svg#LineIcons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
